@@ -90,7 +90,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Poliklinik KITA</title>
+    <title>DINUS POLI</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet"
@@ -120,14 +120,14 @@ function redirectToLoginIfNotLoggedIn() {
 <div class="container-fluid flex flex-col justify-center items-center text-white p-5"
      style="height: 400px; background-image: url('assets/images/gedung3.jpg'); background-size: cover; background-position: center; position: relative;">
      <div style="background-color: rgba(255, 255, 255, 0.8); padding: 15px; border-radius: 8px; text-align: center;">
-         <h1 class="font-weight-bold mb-3" style="color: black; margin: 0;">Poliklinik KITA</h1>
+         <h1 class="font-weight-bold mb-3" style="color: black; margin: 0;">POLIKLINIK</h1>
          <h5 style="color: black; font-weight: bold; margin: 0;">
-             Sistem Informasi Layanan Kesehatan
+             Layanan Kesehatan Dinusian
          </h5>
      </div>
 </h5>
     <marquee style="position: absolute; bottom: 0; left: 0; background-color: rgba(0,0,0,0.5); color: white; width: 100%; padding: 10px;">
-        Kesehatanmu Lo Di Jaga
+        Lebih Baik Mencegah Daripada Mengobati
     </marquee>
 </div>
     <div class="container mt-5">
@@ -136,9 +136,9 @@ function redirectToLoginIfNotLoggedIn() {
                 <div class="card">
                     <div class="card-body">
                         <i class="fas fa-hospital-user fa-fw mb-3 text-primary" style="font-size: 34px;"></i>
-                        <h3 class="">Pasien</h3>
-                        <p class="card-text">Untuk mendapatkan layanan kesehatan dari Udinus Poliklinik, silahkan login terlebih dahulu</p>
-                        <a href="loginPasien.php" class="btn btn-primary btn-block">Masuk</a>
+                        <h3 class=""> Login Pasien</h3>
+                        <p class="card-text">Silahkan login terlebih dahulu</p>
+                        <a href="loginPasien.php" class="btn btn-primary btn-block">Klik di sini</a>
                     </div>
                 </div>
             </div>
@@ -146,10 +146,10 @@ function redirectToLoginIfNotLoggedIn() {
                 <div class="card">
                     <div class="card-body">
                         <i class="fas fa-stethoscope fa-fw mb-3 text-success" style="font-size: 34px;"></i>
-                        <h3 class="">Dokter</h3>
-                        <p class="card-text">Untuk memulai melayani pasien di Udinus Poliklinik, silahkan login terlebih dahulu</p>
+                        <h3 class="">Login Dokter</h3>
+                        <p class="card-text">Silahkan login terlebih dahulu</p>
                         <div class="d-grid">
-                            <a href="loginUser.php" class="btn btn-success btn-block">Masuk</a>
+                            <a href="loginUser.php" class="btn btn-success btn-block">Klik di sini</a>
                         </div>
                     </div>
                 </div>
@@ -159,7 +159,7 @@ function redirectToLoginIfNotLoggedIn() {
         <section class="client_section layout_padding">
     <div class="container">
         <div class="heading_container heading_center">
-            <h2>Testimoni Pelayanan</h2>
+            <h2>Kepuasan Pelayanan Poliklinik</h2>
         </div>
         <style>
         body {
@@ -236,9 +236,9 @@ function redirectToLoginIfNotLoggedIn() {
                         <img src="assets/images/Cristopher.png" alt="Client 1">
                     </div>
                     <div class="text-content">
-                        <h6>Christopher</h6>
-                        <p class="location">Demak</p>
-                        <p class="testimonial-text">Lebih mudah digunakan dan penanganan cepat di Poliklinik Udinus</p>
+                        <h6>Marchell</h6>
+                        <p class="location">Kalipancur</p>
+                        <p class="testimonial-text">Dokter ramah, tidak antri lama, recommended</p>
                     </div>
                 </div>
             </div>
@@ -251,9 +251,9 @@ function redirectToLoginIfNotLoggedIn() {
                         <img src="assets/images/Angel.png" alt="Client 2">
                     </div>
                     <div class="text-content">
-                        <h6>Angel</h6>
-                        <p class="location">Salatiga</p>
-                        <p class="testimonial-text">Top sih, karena pelayanan mantap dan sudah digitalisasi modern</p>
+                        <h6>Angela</h6>
+                        <p class="location">Kendal</p>
+                        <p class="testimonial-text">Nyaman, bersih, staf cepat menangani</p>
                     </div>
                 </div>
             </div>
